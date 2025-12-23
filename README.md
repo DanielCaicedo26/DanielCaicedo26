@@ -90,8 +90,8 @@ Cuando no estoy programando, me encontrarás tocando guitarra y disfrutando de l
 
 <!-- Agrega aquí tus memes favoritos usando este formato: -->
 <!-- ![Descripción del meme](URL_de_la_imagen) -->
-[Meme 1](C:\Users\User\OneDrive\Desktop\Proyectos\DanielCaicedo26\image.png) 
-[Meme 2](DanielCaicedo26/image.png) 
+
+![meme](DanielCaicedo26/imag.png)
 
 </div>
 
