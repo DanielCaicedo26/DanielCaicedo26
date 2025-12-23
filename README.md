@@ -68,7 +68,9 @@ Cuando no estoy programando, me encontrarás tocando guitarra y disfrutando de l
 - **Creatividad**: Mi pasión por la música me ayuda a pensar de forma creativa en el desarrollo
 - **Responsabilidad**: Comprometido con la calidad del código y el cumplimiento de plazos
 
+</div>
 
+---
 
 ## 😄 Memes & Humor de Programador
 
