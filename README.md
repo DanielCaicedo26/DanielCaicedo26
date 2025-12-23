@@ -91,7 +91,7 @@ Cuando no estoy programando, me encontrarás tocando guitarra y disfrutando de l
 <!-- Agrega aquí tus memes favoritos usando este formato: -->
 <!-- ![Descripción del meme](URL_de_la_imagen) -->
 
-![meme](DanielCaicedo26/imag.png)
+![meme](https://lh3.googleusercontent.com/gg/AIJ2gl9A3I_Tr51M1CquR6l5Luf0kMPeZqFqOvNiYAqWLm_yy2_XZ31exSM_W3SazK2E7ShPixdJ4ppv5ct2oYi-8bEIXlBggytxrFzmhnORLO8XEWKVCHMlIFBGIRssvjMc_nV3mgR_IFsOZ4iG1P2-t8qlJ_Axlhe6xyNPRpYnX7zQvf_AWSlXGbr75yeKGsmhH0dhMy1AJtJIZixH1uEY5fjY8ZXQJZ9SR7PiDVrmRhrKpB6VxDuh12a-biH0DKg3SSmCVcP33Zt95-jb8GEp1mpKwgb2LT12veHiFMYY7BFTLhw_Q55ntIa-wE-vkx1zRcmwu6WslljVOQ5b7PM4K-A=s1024-rj)
 
 </div>
 
